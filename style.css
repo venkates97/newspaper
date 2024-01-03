@@ -1,0 +1,162 @@
+.remove_margin {
+    margin: 0px;
+}
+
+.page {
+    background-color: white;
+    margin: 10px;
+    position: relative;
+    padding: 25px;
+
+}
+
+.page_content {
+    margin: 10px;
+}
+
+.header_footer_text {
+    font-size: 12px;
+}
+
+.head_right {
+    text-align: right;
+}
+
+hr {
+    color: black;
+    margin: 5px;
+}
+
+.two_lines_with_box {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.two_lines_with_box_text {
+    margin: 5px;
+    font-size: 16px;
+}
+
+.heading_box {
+    text-align: center;
+}
+
+.heading_text {
+    font-size: 90px;
+    font-weight: bold;
+    
+}
+
+.uneven-box {
+    width: 100px;
+    height: 30px;
+    background-color: #ca2b33;
+    color: #fff;
+    clip-path: polygon(0% 0%, 90% 0%, 100% 100%, 0% 100%);
+    display: flex;
+
+}
+
+.uneven-box1 {
+    margin-bottom: -15px;
+    z-index: 2;
+    position: relative;
+}
+
+.bk_text {
+    margin: 0px;
+    padding: 5px;
+    font-weight: bold;
+    font-style: italic;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+
+}
+
+.sub_heading_box {
+    margin: 10px 0px;
+    text-align: justify;
+}
+
+.newstext {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.blank_area {
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    align-items: flex-end;
+
+}
+
+.black_circle_with_text {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.pageno {
+    color: #fff;
+    margin: 0px;
+}
+
+.pageno_box {
+    text-align: center;
+    position: absolute;
+    padding: 5px;
+}
+
+.white_text_area {
+    display: flex;
+    position: relative;
+    text-align: right;
+}
+
+.white_text {
+    color: #fff;
+}
+
+.image_info {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.content_box_1 {
+    margin: 0px;
+}
+
+.row {
+    margin: 0px;
+}
+
+.border_bottom {
+    border-bottom: 1px solid black;
+}
+
+.q_text {
+    color: #ca2b33;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 19px;
+}
+
+.remove_padding {
+
+    padding: 0px;
+}
+
+body {
+    background-color: grey;
+}
+.margin_up{
+    margin-top: -25px;
+}
